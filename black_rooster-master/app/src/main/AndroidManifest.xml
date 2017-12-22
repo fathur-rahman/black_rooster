@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.acer.spnj1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Sign_in" />
+        <activity android:name=".sign_up" />
+        <activity android:name=".activity_13" />
+        <activity android:name=".ProjectSpnj4" />
+        <activity android:name=".ProjectSpnj5" />
+        <activity android:name=".ProjectSpnj6" />
+        <activity android:name=".ProjectSpnj7" />
+        <activity android:name=".formulir" />
+    </application>
+
+</manifest>

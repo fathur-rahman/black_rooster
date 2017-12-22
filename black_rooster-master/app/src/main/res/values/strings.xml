@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SPNJ1</string>
+    <string name="usernem">Username</string>
+    <string name="Pass">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="text1">Not registered ? Please.</string>
+    <string name="signUUP">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="pesbuk">SIGN IN WITH FACEBOOK</string>
+    <string name="user">Username</string>
+    <string name="email">Email Address</string>
+    <string name="pw">Password</string>
+    <string name="sign_up">SIGN UP</string>
+</resources>
